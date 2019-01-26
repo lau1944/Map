@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Map</string>
+    <string name="title_discover">探索</string>
+    <string name="title_fun">宠物导航</string>
+    <string name="title_setting">个人</string>
+</resources>

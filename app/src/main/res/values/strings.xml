@@ -3,4 +3,5 @@
     <string name="title_discover">discover</string>
     <string name="title_fun">fun</string>
     <string name="title_setting">settting</string>
+    <string name="mapview" translatable="false">mapview</string>
 </resources>
